@@ -199,8 +199,6 @@ Demo demos[] = {drawProgressBarDemo, drawImageDemo, drawFontFaceDemo2};
 int demoLength = (sizeof(demos) / sizeof(Demo));
 long timeSinceLastModeSwitch = 0;
 
-
-
 void loop() {
 
   //////////////////////////////////////////////////////////////
