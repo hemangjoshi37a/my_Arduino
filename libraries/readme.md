@@ -1,3 +1,7 @@
+# Libraries needed for all these projects
+
+---------------------------------------
+
 # Arduino and ESP8266 (or NodeMCU) projects
 
 ## [IoT_LED_over_ESP8266_NodeMCU : Turn LED on and off using web server hosted on a nodemcu or esp8266](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_LED_over_ESP8266_NodeMCU)
@@ -25,8 +29,6 @@
 ## [IoT_SSD1306_ESP8266_NodeMCU : Read from High Precision 12bit ADC seonsor ADS1015 and display to SSD1306 SPI as progress bar in ESP8266 or NodeMCU or Arduino](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_SSD1306_ESP8266_NodeMCU)  
 
 ![image](./IoT_SSD1306_ESP8266_NodeMCU/NodeMCU_ESP8266_OLED_Display.png)
-
-## [Libraries needed for this projects](https://github.com/hemangjoshi37a/my_Arduino/tree/master/libraries)  
 
 ----------------------------------------------------------------------
 
