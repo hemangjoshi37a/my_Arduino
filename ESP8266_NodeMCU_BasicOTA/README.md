@@ -1,1 +1,3 @@
-# Simple OTA (Over The Air) upload code from Arduino IDE using WiFi to NodeMCU or ESP8266.
+# Simple OTA (Over The Air) upload code from Arduino IDE using WiFi to NodeMCU or ESP8266
+
+![image](./maxresdefault.jpg)
