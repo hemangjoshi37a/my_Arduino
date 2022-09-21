@@ -2,7 +2,7 @@
 
 ![image](./maxresdefault.jpg)
 
----------------------------------------------------  
+---------------------------------------------------;  
 
 ### Our Other Arduino and ESP8266 (or NodeMCU) projects
 
@@ -18,18 +18,24 @@
 
 #### [IoT_SSD1306_ESP8266_NodeMCU : Read from High Precision 12bit ADC seonsor ADS1015 and display to SSD1306 SPI as progress bar in ESP8266 or NodeMCU or Arduino](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_SSD1306_ESP8266_NodeMCU)
 
-----------------------------------------------------------------------
+----------------------------------------------------------------------;
 
-Place a custom order on hjLabs.in : [hjLabs.in](https://hjlabs.in/)
+Mobile : [+917016525813](tel:+917016525813)
+Whatsapp & Telegram : [+919409077371](tel:+919409077371)
 
-Plese feel free to use the codes for yourself.
+Email : [hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
 
-And also suggestions and pull requests are welcome for code improvement.
+Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/)
 
-Thax and regards.
-Peace.
+Please contribute your suggestions and corections to support our efforts.
 
-----------------------------------------------------------------------
+Thank you.
+
+Buy us a coffee for $5 on PayPal ?
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JXC8VRCSUZWJ)
+
+----------------------------------------------------------------------;
 
 #### Checkout Our Other Repositories
 
