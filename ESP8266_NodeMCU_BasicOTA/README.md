@@ -2,7 +2,7 @@
 
 ![image](./maxresdefault.jpg)
 
----------------------------------------------------;  
+---------------------------------------------------
 
 ### Our Other Arduino and ESP8266 (or NodeMCU) projects
 
