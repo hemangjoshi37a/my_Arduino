@@ -28,16 +28,24 @@
 
 ----------------------------------------------------------------------
 
+### Contact us
+
+Mobile : [+917016525813](tel:+917016525813)
+Whatsapp & Telegram : [+919409077371](tel:+919409077371)
+
+Email : [hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
+
 Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/)
 
-Plese feel free to use the codes for yourself.
+Please contribute your suggestions and corections to support our efforts.
 
-And also suggestions and pull requests are welcome for code improvement.
+Thank you.
 
-Thax and regards.
-Peace.
+Buy us a coffee for $5 on PayPal ?
 
---
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JXC8VRCSUZWJ)
+
+----------------------------------------------------------------------
 
 ### Checkout Our Other Repositories
 
