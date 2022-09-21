@@ -14,9 +14,17 @@
 
 ## Honeywell_4_20mA_Datalogger : Log data in A SD Card from a Honeywell I2C HIH8000 or HIH6000 series sensor having external I2C RTC clock
 
-[![Transmitter](https://img.youtube.com/vi/MC9E-f79TsQ/0.jpg)](https://www.youtube.com/watch?v=MC9E-f79TsQ)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MC9E-f79TsQ"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-[![DigiTemp](https://img.youtube.com/vi/ySsQuUL6oOM/0.jpg)](https://www.youtube.com/watch?v=ySsQuUL6oOM)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ySsQuUL6oOM"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
 ## IoT_Load_Cell_using_ESP8266_NodeMC : Read ADC value from High Precision 12bit ADS1015 ADC Sensor and Display on SSD1306 SPI Display as progress bar for Arduino or ESP8266 or NodeMCU
 
