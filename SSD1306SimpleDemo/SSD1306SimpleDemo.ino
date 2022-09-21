@@ -12,8 +12,8 @@ Adafruit_ADS1115 ads;  /* Use this for the 16-bit version */
 
 //how many clients should be able to telnet to this ESP8266
 #define MAX_SRV_CLIENTS 1
-const char *ssid = "Tenda_5F19A8";
-const char *password = "bhumika_301";
+const char *ssid = "YOUR_WIFI_SSID";
+const char *password = "YOUR_WIFI_PASSWORD";
 IPAddress ip(192, 168, 0, 177);
 WiFiServer server(23);
 WiFiClient serverClients[MAX_SRV_CLIENTS];
