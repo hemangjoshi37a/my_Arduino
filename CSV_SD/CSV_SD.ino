@@ -1,8 +1,3 @@
-
-//Jeremey Blum - Tutorial 11
-//http://www.jeremyblum.com/2011/04/05/tutorial-11-for-arduino-sd-cards-and-datalogging/
-//iteadstudio SDCard Shield v1.0
-
 #include <SD.h>
 
 //SPI Settings
